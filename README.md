@@ -15,3 +15,4 @@ Database: SQLite for local storage
 Android SDK: Targeting recent Android versions with backward compatibility
 Installation
 Clone this repository and import it into Android Studio:
+git clone https://github.com/yourusername/EMIS.git
