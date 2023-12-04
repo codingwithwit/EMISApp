@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sample data extraction rules file. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Define specific files or shared preferences to include or exclude in the backup here.
+        Patterns can be added using <include> or <exclude> tags. -->
+    </cloud-backup>
+    <!-- Additional rules for device-to-device transfer can also be specified here if needed. -->
+</data-extraction-rules>
